@@ -16,6 +16,6 @@ User Experience
 Responsive Design: Our website is fully responsive, ensuring a smooth and seamless experience on any device, whether it’s a desktop, tablet, or smartphone.
 By offering these resources and features, we aim to create an engaging and supportive learning environment for students at all levels.
 
-DEPLOYED PROJECT-: https://aditya-2196.github.io/E-Learning/
+DEPLOYED PROJECT-: https://quiet-tiramisu-ac890f.netlify.app/
 
 # E-Learning
